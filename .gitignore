@@ -1,0 +1,23 @@
+# Flutter
+.dart_tool/
+.build/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+*.keystore
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+
+# IDE
+.vscode/
+.idea/
+*.iml
